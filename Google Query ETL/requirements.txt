@@ -1,0 +1,8 @@
+pandas>=1.1.0
+boto3>=1.17.0
+google-auth>=2.0.0
+google-auth-oauthlib>=0.4.4
+google-auth-httplib2>=0.1.0
+google-api-python-client>=2.0.0
+snowflake-connector-python>=2.4.0
+python-dotenv>=0.15.0
